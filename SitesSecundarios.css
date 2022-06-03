@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    background-color: bisque;
+    text-align: center;
+}
+h1{ color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: 30px;
+}
+img{
+    border-style: groove;
+    border-color:  black;
+}
+
+a{
+font-size: 40px;
+
+}
+
